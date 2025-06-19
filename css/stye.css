@@ -1,0 +1,5 @@
+nav a:hover,
+nav .dropdown-item:hover {
+  text-transform: uppercase; /* Transform the text to uppercase on hover */
+  background: lightgreen; /* Change the background color to a pink on hover */
+}
